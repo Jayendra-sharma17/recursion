@@ -26,6 +26,7 @@ int main()
     int size=6;
     int key=36;
     // cout<<"making some changes"
+    // cout<<"jhvf"
   
     cout<<"present or not"<< binary_search(arr,0,size-1,key);
     return 0;
